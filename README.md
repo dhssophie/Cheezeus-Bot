@@ -1,1 +1,1 @@
-# Cheezeus-Bot
+# Cheezeus the chatbot
