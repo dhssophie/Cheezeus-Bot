@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<script type='text/javascript' id='susi-bot-script' data-userid='095ede085ddb26ee7283952110a79f0c' data-group='Novelty and Humour'
+data-language='en' data-skill='Cheezus' src='https://skills.susi.ai/susi-chatbot.js'>
+</script>
+</body>
+<html>
